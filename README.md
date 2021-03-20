@@ -7,10 +7,12 @@ it all went fairly smoothly with no issue. I'm dual booting using rEFInd and hav
 
 First thing I did upon install was update/upgrade
 > sudo apt-get update
+
 > sudo apt-get upgrade
 
 after updating/upgrading, in order to satisfy the needs of rEFInd, i uninstalled grub and put a hold on it so it wouldn't come with further updates/upgrades.
-> sudo apt remove grub2
+> sudo apt remove grub2*
+
 > sudo apt-mark hold grub2*
 
 now for fan and optimizations...
