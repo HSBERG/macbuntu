@@ -24,5 +24,6 @@ next is powertop
 > sudo apt install powertop
 once installed simply run
 > sudo powertop --html=powertop.html
+
 then you go to your usr directory and open it and go to the tweaks page. from there you can see what needs to change for optimal usage
 to apply you need to go into su. I couldn't get sudo to work, and su refused so I used sudo -i and got in w/o password just fine
