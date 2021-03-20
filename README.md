@@ -22,6 +22,7 @@ fan support is as easy as installing
 
 next is powertop
 > sudo apt install powertop
+
 once installed simply run
 > sudo powertop --html=powertop.html
 
