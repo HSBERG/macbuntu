@@ -1,6 +1,7 @@
 # macbuntu
 my experience with ubuntu unity 20.10 on a 2012 macbook pro - extra stuff i installed for optimal usage.
 
+this repo is suspended indefinetly as my macbook caught fire and apple wanted $700 to fix the laptop. yeah. a graphics card failure did this.
 
 so installing, i used the Ubuntu Unity Project (https://ubuntuunity.org) for my OS. I hate gnome with a passion, like everything uses it. 
 it all went fairly smoothly with no issue. I'm dual booting using rEFInd and have experienced very little issues with my install.
